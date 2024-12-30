@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: jc57965
+  name: Jeff Carstensen
   image: author.png
-  greeting: "Your new L1nkr site :tada:"
+  greeting: "CyberSecurity Professional :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,20 +13,22 @@ author:
 ############################
 
 links:
-  - github: https://github.com/jc57965/L1nkr
-  - link: https://github.com/jc57965/L1nkr#readme
-  # - website:
-  # - x-twitter:
+  - github: https://github.com/jc57965
+  - email: mailto:jeff@jeffcarstensen.com
+  - website: https://jeffcarstensen.com
+  - linkedin: Https://www.linkedin.com/in/jeffcarstensen/
+  - certifications: https://www.credly.com/users/jeff-carstensen/badges
+  - youtube: https://www.youtube.com/@jc5796
+  - x-twitter: https://twitter.com/jc57965
+  - bluesky: https://bsky.app/profile/jc57965.bsky.social
+  - instagram: https://www.instagram.com/jeff_carstensen/
   # - mastodon:
-  # - linkedin:
-  # - instagram:
   # - reddit:
   # - telegram:
   # - whatsapp:
   # - signal:
   # - codepen:
   # - dev:
-  # - email:
   # - discord:
   # - orcid:
   # - slack:
@@ -37,13 +39,11 @@ links:
   # - dribbble:
   # - stack-exchange:
   # - tiktok:
-  # - youtube:
   # - keybase:
   # - flickr:
   # - tumblr:
   # - kickstarter:
   # - snapchat:
-  # - bluesky:
   # - bitbucket:
   # - bandcamp:
   # - etsy:
@@ -65,7 +65,7 @@ links:
 ############################
 
 # between 2 & 6 columns are supported (both incl)
-columns: 2
+columns: 3
 
 ###########################
 ## Icon text
@@ -86,6 +86,6 @@ tooltip: false
 ###############################
 
 title: L1nkr
-description: "Demo site build with L1nkr & Hugo"
+description: "site build with L1nkr & Hugo"
 images:
   - thumbnail.png
